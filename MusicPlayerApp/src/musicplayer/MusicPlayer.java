@@ -50,3 +50,4 @@ public class MusicPlayer extends Application {
         launch(args);
     }
 }
+
